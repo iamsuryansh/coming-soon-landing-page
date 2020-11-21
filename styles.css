@@ -112,7 +112,6 @@ input {
 .lady-mobile {
   display: none;
 }
-
 @media only screen and (max-width: 800px) {
   .lady-image {
     visibility: hidden;
@@ -123,10 +122,20 @@ input {
     width: auto;
     margin: auto;
     top: 100px;
-    left: 20%;
   }
-  .content {
-    margin-left: auto;
-    margin-right: auto;
+  .comingSoon{
+    left:20px;
+  }
+  .hello {
+    left: 20px;
+  }
+  .emailInput {
+    left: 20px;
+  }
+  .submit-icon {
+    left: 333px;
+  }
+  .logo {
+    left: 20px;
   }
 }

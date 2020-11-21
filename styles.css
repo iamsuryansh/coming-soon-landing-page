@@ -153,6 +153,7 @@ input {
     position: relative;
     display: block;
     top: 250px;
+    left: 0;
     text-align: center;
   }
 }
